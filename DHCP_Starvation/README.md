@@ -1,9 +1,8 @@
-## DHCP Starvation<br>
+## Network Security<br>
 **Programming Language**: Python (3+)<br><br>
 **Requirements**: Scapy, Numpy<br><br>
 **Tested On**: Ubuntu 16.04 (amd64)<br><br>
-**Description** <br>The code in this repo is able to starve a network of IP addresses. This essentially prevents any new device from entering the network which in turn results in a DOS attack.
-<br><br>
+**Description** <br>The following repo contains code for my experiments with the domain of network security. The use of these programs must be for purely educational purposes.<br><br>
 **Execution Instruction**
 >python3 starvation.py
 
