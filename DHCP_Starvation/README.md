@@ -1,8 +1,9 @@
-## Network Security<br>
+## DHCP Starvation<br>
 **Programming Language**: Python (3+)<br><br>
 **Requirements**: Scapy, Numpy<br><br>
 **Tested On**: Ubuntu 16.04 (amd64)<br><br>
-**Description** <br>The following repo contains code for my experiments with the domain of network security. The use of these programs must be for purely educational purposes.<br><br>
+**Description** <br>Code for exploiting a fundamental flaw in DHCP. The use of these programs must be for purely educational purposes.<br>
+**Attack Type**: Denial of Service (DOS)<br><br>
 **Execution Instruction**
 >python3 starvation.py
 
