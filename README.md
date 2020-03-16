@@ -1,5 +1,5 @@
 # Network Security
-The following repo contains code for experiments with various elements of network security. These codes aim to understand networks, the way they work and demonstrate vulnerabilities in these netowkring protocols.
+The following repo contains code for experiments with various elements of network security. These codes aim to understand networks, the way they work and demonstrate vulnerabilities in these networking protocols.
 
 Language: Python<br>
 The following concepts of computer networking were explored:
